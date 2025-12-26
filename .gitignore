@@ -1,0 +1,29 @@
+# Compiled class files
+/bin/
+/bin/*
+
+# Eclipse specific files and folders
+/.settings/
+
+
+
+# Maven or Gradle build folders (if used)
+/target/
+
+# IDE workspace files (if you use IntelliJ, VSCode, etc.)
+/.idea/
+/.vscode/
+
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+/test-output/
+/target/
+.settings/
+.project
